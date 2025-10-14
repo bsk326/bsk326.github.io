@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: BSK on cloud
 
 # Your name to show in the footer
-author: Some Person
+author: BSK
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,9 +22,8 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    nothing to ee here, yet
+  Author's home: please come back later
 
 ################
 # --- Logo --- #
@@ -52,12 +51,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -94,9 +88,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
   reddit: false
 
@@ -136,7 +130,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#FF7F50"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
