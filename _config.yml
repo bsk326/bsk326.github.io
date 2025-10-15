@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: BSK on cloud
+title: BSK on cloud with LV
 
 # Your name to show in the footer
 author: BSK
@@ -22,7 +22,7 @@ author: BSK
 navbar-links:
   About Me: "aboutme"
   Resources:
-    nothing to ee here, yet
+    nothing to see here, yet
   Author's home: please come back later
 
 ################
@@ -34,7 +34,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
